@@ -52,7 +52,7 @@ const hunterbrightdesign = {
 
 <h3>Github stats ...</h3>
 <p>
-  <img height="195" alt="bpsmartdesign's Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterbrightdesign&count_private=true&&theme=onedark&hide=css,html,php,blade&langs_count=6" />
+  <img height="195" alt="bpsmartdesign's Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterbrightdesign&count_private=true&&theme=onedark&hide=css,html,php,blade&langs_count=10" />
   <img alt="bpsmartdesign's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hunterbrightdesign&count_private=true&show_icons=true&theme=onedark" />
 </p>
 
