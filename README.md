@@ -52,7 +52,7 @@ const hunterbrightdesign = {
 
 <h3>Github stats ...</h3>
 <p>
-  <img height="195" alt="bpsmartdesign's Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterbrightdesign&count_private=true&&theme=onedark&hide=css,html,php,blade&langs_count=3" />
+  <img height="195" alt="bpsmartdesign's Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterbrightdesign&count_private=true&&theme=onedark&hide=css,html,php,blade&langs_count=6" />
   <img alt="bpsmartdesign's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hunterbrightdesign&count_private=true&show_icons=true&theme=onedark" />
 </p>
 
@@ -68,7 +68,7 @@ const hunterbrightdesign = {
 <p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, April 26, 7:11 AM GMT+1</p>
 <p align="center">
   <img src="https://github.com/hunterbrightdesign/hunterbrightdesign.profile/workflows/README%20build/badge.svg" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/hunterbrightdesign/bpsmartdesign?style=flat-square&labelColor=343b41"/>
+  <img alt="Stars" src="https://img.shields.io/github/stars/hunterbrightdesign/hunterbrightdesign?style=flat-square&labelColor=343b41"/>
   <img alt="Forks" src="https://img.shields.io/github/forks/hunterbrightdesign/hunterbrightdesign?style=flat-square&labelColor=343b41"/>
   <img alt="Forks" src="https://img.shields.io/github/sponsors/hunterbrightdesign?style=flat-square&labelColor=343b41"/>
   <img alt="Forks" src="https://img.shields.io/github/license/bpsmartdesign/hunterbrightdesign?style=flat-square&labelColor=343b41"/>
