@@ -57,7 +57,7 @@ const hunterbrightdesign = {
 </p>
 
 <h3>Get In touch ...</h3>
-<a href="https://twitter.com/FokouiM"><img src="https://img.shields.io/twitter/follow/hunterbrightdesign?label=Follow&style=social"></a>
+<a href="https://twitter.com/FokouiM"><img src="https://img.shields.io/twitter/follow/FokouiM?label=Follow&style=social"></a>
 <a href="https://github.com/hunterbrightdesign"><img src="https://img.shields.io/github/followers/hunterbrightdesign?style=social"></a>
 <a href="https://github.com/hunterbrightdesign"><img src="https://img.shields.io/github/stars/hunterbrightdesign?style=social"></a>
 <a href="https://github.com/hunterbrightdesign"><img src="https://img.shields.io/discord/967849006078263306?style=social"></a>
