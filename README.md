@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome 😊! </br> I'm FOKOUI <img src="./assets/img/profil.jpeg" width="18"/>, Software Engineer from <b><em><u>Douala, Cameroon</u></em></b> <img src="./assets/img/cameroon.png" width="18"/></p>
+<p>Welcome 😊! </br> I'm FOKOUI, Software Engineer from <b><em><u>Douala, Cameroon</u></em></b> <img src="./assets/img/cameroon.png" width="18"/> </br> <img src="./assets/img/profil.jpeg" width="36"/></p>
 
 ```javascript
 const hunterbrightdesign = {
