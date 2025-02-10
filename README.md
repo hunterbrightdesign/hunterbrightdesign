@@ -5,18 +5,18 @@
 ```javascript
 const hunterbrightdesign = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python","Kubernetes", "HTML", "CSS", "Php"],
+  code: ["Javascript", "Python","docker", "HTML", "CSS", "Php"],
   askMeAbout: ["web dev", "tech", "app dev", "mobile dev", "chess"],
   technologies: {
         frontEnd: {
-          Vue: ["Vue Js", "Vuex",  "Nuxt", ...],
+          Vue: ["Vue Js", "Vuex",  "Nuxt","React js", ...],
           misc: ["Tailwind", "Ant design", "Vuetify", "i18n", "Figma", "Photoshop", ...]
         },
         backEnd: {
-          Python:["Tornado", "Flask", "Djando","SQLalchemy"]
+          Python:["Tornado", "Flask", "Djando"]
           php:["Laravel", "Symfony","Voyager","infyom"]
         },
-        cloud: ["Docker", "Azure","Kubernetes"],
+        cloud: ["Docker", "Aws","GCP"],
         databases: ["PostgreSQL", "MySql", "sqlite","MongoDB"],
     },
   architecture: ["microservices", "event-driven", "design system pattern", "MVC","ORM"],
@@ -58,7 +58,7 @@ const hunterbrightdesign = {
 
 <h3>Github stats ...</h3>
 <p>
-  <img height="195" alt="hunterbrightdesign's Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterbrightdesign&count_private=false&theme=onedark&hide=css,html,blade,shell,scss&langs_count=20" />
+  <img height="195" alt="hunterbrightdesign's Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterbrightdesign&count_private=false&theme=onedark&hide=css,html,blade,TypeScript,scss&langs_count=20" />
   <img alt="hunterbrightdesign's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hunterbrightdesign&count_private=false&show_icons=true&theme=onedark" />
 </p>
 
